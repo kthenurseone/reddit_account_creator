@@ -23,6 +23,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 
 ## Features
 - Create accounts
+- Solving captcha
 - Verify accounts with emails
 
 
